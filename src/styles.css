@@ -1,0 +1,27 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+    position: relative;
+  }
+body{
+  background-color: rgb(25, 32, 51);
+  color: white;
+}  
+.logo{
+  height: 200px;
+
+}
+ul{
+  width: 60%;
+  position: relative;
+}
+li{
+  margin-top: 15px;
+}
+ul.nav{
+  text-align: center;
+ 
+}
+button{
+  color: pink;
+}
