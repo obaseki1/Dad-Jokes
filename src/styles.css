@@ -24,4 +24,17 @@ ul.nav{
 }
 button{
   color: pink;
+  height: 35px;
+  
+}
+.search-form{
+  width: 90%;
+  margin:0 auto;
+  max-width: 600px;
+  
+}
+
+.search-form input {
+  height: 25px;
+  border: none;
 }
